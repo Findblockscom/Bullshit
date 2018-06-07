@@ -1,0 +1,9 @@
+Building Bullshit
+
+See doc/readme-qt.rst for instructions on building Bullshit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bullshit.
+
+See doc/build-*.txt for instructions on building bullshitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bullshit.
